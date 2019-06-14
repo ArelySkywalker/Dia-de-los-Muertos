@@ -32,6 +32,7 @@ Use your arrow keys on your keyboard to navigate throughout the game and interac
 - [ ] Make pixel assets
 - [ ] Choose 3 color scheme for rooms
 - [ ] Write the story
+- [ ] Write Spanish Version
 - [ ] Code for sound and talk effects
 - [ ] Code for a directional avatar
 - [ ] Code for a sprite follower
