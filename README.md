@@ -11,6 +11,9 @@ Día de los Muertos (Day of the Dead) is a cultural Mexican holiday celebrated i
 
 It is tradition to build an Ofrenda (Altar) for your loved ones that includes pictures of the deceased, their favorite foods, drinks, flowers, and anything that they loved when they were alive. Another tradition is to paint your face as a calavera (skull) and dress as a catrina (skeleton), as a representation of life and death being together in one place.
 
+### Gameplay
+Your goal is to journey through the cemetary following the Aztec Marigolds leading you to your alter. In order to complete the Altar you will need to pick up a few items along the way to make it complete. 
+
 This game is a dedication to my late father, Ruben Martin Miramontes (November 11, 1950 - June 17, 2018).
 
 ## Installation 
