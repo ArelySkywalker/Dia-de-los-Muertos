@@ -14,7 +14,10 @@ It is tradition to build an Ofrenda (Altar) for your loved ones that includes pi
 ### Gameplay
 Your goal is to journey through the cemetary following the Aztec Marigolds leading you to your alter. In order to complete the Altar you will need to pick up a few items along the way to make it complete. 
 
-This game is a dedication to my late father, Ruben Martin Miramontes (November 11, 1950 - June 17, 2018).
+___
+
+***This game is a dedication to my late father, Ruben Martin Miramontes (November 11, 1950 - June 17, 2018).***
+___
 
 ## Installation 
 Installation is as easy as pie! Just donwload the ``dia_de_los_muertos.html`` file and open it in your browser, and it's ready to play!
