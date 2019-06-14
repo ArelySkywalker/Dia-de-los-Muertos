@@ -6,6 +6,13 @@ Día de los Muertos is a Bitsy game created by me using [Adam Le Doux](https://t
 
 Pixel Picnic is a local group based in Madison, Wisconsin that organizes meetings, socials and game jams for folks with diverse genders who are interested in all areas of Game Development.
 
+## About
+Día de los Muertos (Day of the Dead) is a cultural Mexican holiday celebrated in Mexico. The multi-day holiday involved family and friends gathering to remember their loved ones whom have passed away, and help support their spiritual journey. We do not view it as a day of sadness, but rather a celebration because our loved ones are awake to celebrate with us.
+
+It is tradition to build an Altar for your loved ones that includes pictures of the deceased, their favorite foods, drinks, flowers, anything that they loved when they were alive. Another tradition is to dress as a calavera (skeleton), as a representation of life and death being together in one place.
+
+This game is a dedication to my late father, Ruben Martin Miramontes (November 11, 1950 - June 17, 2018).
+
 ## Installation 
 Installation is as easy as pie! Just donwload the ``dia_de_los_muertos.html`` file and open it in your browser, and it's ready to play!
 
